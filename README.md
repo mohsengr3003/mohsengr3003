@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohsen 👋</h1>
 
-<!--
-**mohsengr3003/mohsengr3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Building <a href="https://github.com/mohsengr3003/clinica-showcase">Clinica</a> — a modern clinic management platform</b><br/>
+  Laravel 12 · Livewire · PostgreSQL
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://clinic.msdnk.ir"><img src="https://img.shields.io/badge/🩺%20Live%20Demo-clinic.msdnk.ir-6366f1?style=for-the-badge" alt="Live Demo"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🩺 What I'm building
+
+**Clinica** is a full-cycle clinic management system for real medical practices:
+
+- 👨‍⚕️ Doctor & secretary workspaces with role-based access + 2FA
+- 🗓️ Online booking engine — weekly shifts, per-slot capacity, time-offs
+- 🧾 Invoicing, medical records, and revenue reports
+- 🔒 Encrypted patient identifiers, hashed 2FA codes, audit log
+- 🌙 Mobile-first UI with full dark mode (WCAG AA)
+
+### 🛠️ Stack
+
+`PHP 8.4` `Laravel 12` `Livewire` `PostgreSQL` `SCSS` `Vite` `Nginx`
+
+### 📫 Reach me
+
+Open an issue or discussion in [clinica-showcase](https://github.com/mohsengr3003/clinica-showcase) — always happy to talk clinic tech.
+
+---
+
+<p align="center"><img src="https://profile-counter.glitch.me/mohsengr3003/count.svg" alt="visitors"/></p>
