@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Mohsen — Clinica builder" width="100%"/>
+</p>
+
 <h1 align="center">Hi, I'm Mohsen 👋</h1>
 
 <p align="center">
