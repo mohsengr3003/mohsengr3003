@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://clinic.msdnk.ir"><img src="https://img.shields.io/badge/🩺%20Live%20Demo-clinic.msdnk.ir-6366f1?style=for-the-badge" alt="Live Demo"/></a>
+  <a href="https://clinicaweb.ir"><img src="https://img.shields.io/badge/🩺%20Live%20Demo-clinicaweb.ir-6366f1?style=for-the-badge" alt="Live Demo"/></a>
 </p>
 
 ### 🩺 What I'm building
